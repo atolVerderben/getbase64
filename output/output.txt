@@ -1,0 +1,2 @@
+This directory contains the output files from the encoding.
+This is just a placeholder file.
